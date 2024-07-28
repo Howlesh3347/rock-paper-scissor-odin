@@ -57,5 +57,4 @@ for (let x = 0; x <= 4; x++) {
     getScores(globalHumanMove, globalComputerMove);
     console.error(`Scoreboard : Your Score ${humanScore} | Computer Score ${computerScore}`);
 }
-// 4. play single round
 // 5. play multiple rounds
